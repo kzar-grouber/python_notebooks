@@ -1,0 +1,10 @@
+# pastas
+.vscode/
+.ipynb_checkpoints
+venv/
+__pycache__/
+
+# arquivos
+*.pic
+*.db
+
